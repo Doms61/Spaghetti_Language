@@ -1,0 +1,21 @@
+number a je 12 end		 //int a = 12;
+number b je 5 end  		 //int b = 5;
+number c je a up b end   //int c = a + b;
+suka d je dobre end 	 //boolean d = true;
+sor e je uj sor+5+ end 	 //array e = new array[5];
+number f je 1 end 		 //int f = 1;
+
+viditelny intel method1 born //public class method1 {
+	loop *d* 				 //	while(d)
+		a downdown 			 //		a--
+		ak *a jeje 0* 		 //		if(a==0)
+			d je zle 		 //			d = false
+		ka					 //		end of the if statement
+		c upup				 //		c++
+		e+f+ je c			 //		e[f] = c
+		f upup				 //		f--
+	 pool					 //	end of the loop
+	habibi e				 //	return e
+die							 //}
+
+

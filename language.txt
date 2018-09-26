@@ -1,0 +1,31 @@
+Spaghetti
+integer & boolean
++ - * / or Nor and xor nand 
+array (tree)
+loop if
+
+
+int = number
+boolean = suka 
+true = dobre
+false = zle
++ = up
+++ = upup
+- = down
+-- = downdown
+* = multiply
+/ = divide
+array = sor
+while = loop - pool
+if = ak - ka
+else = aknie
+public = viditelny
+return = habibi
+[ and ] = +
+( and ) = *
+{ = born
+} = die
+= = je
+== = jeje
+; = end
+// = comment
