@@ -1,5 +1,5 @@
 package code;
-
+/*
 public class IdentifierToken extends Token {
 	public final String value;
 	
@@ -13,3 +13,4 @@ public class IdentifierToken extends Token {
 		return value;
 	}
 }
+*/

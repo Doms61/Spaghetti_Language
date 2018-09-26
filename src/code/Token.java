@@ -1,5 +1,5 @@
 package code;
-
+/*
 public class Token {
 	public final SourceRange location;
 	public final TokenType type;
@@ -21,3 +21,4 @@ public class Token {
 	public IdentifierToken asIdentifier() { return (IdentifierToken) this; }
 	public LiteralToken asLiteral() { return (LiteralToken) this; }
 }
+*/
