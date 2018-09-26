@@ -1,5 +1,5 @@
 package code;
-
+/*
 public enum Keywords {
 	
 
@@ -19,4 +19,4 @@ public enum Keywords {
 		return null;
 	}
 	//https://github.com/google/closure-compiler/tree/master/src/com/google/javascript/jscomp/parsing/parser
-}
+}*/
